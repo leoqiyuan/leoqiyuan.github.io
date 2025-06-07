@@ -9,7 +9,7 @@ Hello! 👋 I'm Leo, a PhD student at CityU in Hong Kong. I have a deep interest
 
 ## Get in Touch
 
-- **Email**: [bleo.hu@gmail.com](mailto:your-email@example.com)
+- **Email**: [leohu2-c@my.cityu.edu.hk](mailto:your-email@example.com)
 
 ## Fun Facts
 
